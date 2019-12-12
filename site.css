@@ -1,0 +1,93 @@
+
+
+body {
+
+
+background: rgb(214, 196, 160);
+color: rgb(50, 50, 50);
+font-family: Helvetica;
+font-size: 35px;
+font-weight: lighter;
+    
+}
+
+h1, h2, h3 {
+	font-family: 'Signika', sans-serif;
+
+}
+
+h1 {
+	color: rgb(61, 61, 61);
+letter-spacing 6px;
+font-size: 60px;
+}
+
+h2 {
+color: rgb(61, 61, 61);
+letter-spacing 6px;
+font-size: 60px;
+}
+
+a {
+	font-family: 'Signika', sans-serif;
+	text-decoration: none;
+	color: rgb(61, 61, 61);
+	font-weight: 600;
+	font-size: 16px;
+}
+a:hover {
+color: black;
+}
+
+
+/* Custom design with class */
+.container {
+width: 988Px;
+margin: 40Px auto;
+
+
+}
+
+.card-white {
+background-color: rgb(214, 196, 160)
+padding: 40px; 
+box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+border-radius: 14px;
+margin: 20px 0px;
+text-align: center;
+padding-bottom: 50px;
+
+}
+
+
+
+
+
+
+
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+padding-bottom: 50px;
+}
+
+.list-inline li {
+display: inline;
+
+}
+
+.list-inline i {
+font-size: 70px;
+color: blue;
+}
+.list-inline i : hover {
+font-size: 40px;
+color: black;
+}
+
+
+#introduction p {
+margin-bottom: 40px;
+}
+
